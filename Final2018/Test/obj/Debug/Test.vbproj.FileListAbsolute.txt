@@ -1,0 +1,15 @@
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\bin\Debug\Test.exe.config
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\bin\Debug\Test.exe
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\bin\Debug\Test.pdb
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\bin\Debug\Test.xml
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\bin\Debug\Final2018.dll
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\bin\Debug\Final2018.pdb
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\bin\Debug\Final2018.xml
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.vbprojAssemblyReference.cache
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.Resources.resources
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.vbproj.CopyComplete
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.exe
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.xml
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.pdb

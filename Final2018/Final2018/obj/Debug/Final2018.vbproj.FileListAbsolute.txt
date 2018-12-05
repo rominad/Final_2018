@@ -1,0 +1,10 @@
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\bin\Debug\Final2018.dll
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\bin\Debug\Final2018.pdb
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\bin\Debug\Final2018.xml
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\obj\Debug\Final2018.vbprojAssemblyReference.cache
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\obj\Debug\Final2018.Resources.resources
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\obj\Debug\Final2018.vbproj.GenerateResource.cache
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\obj\Debug\Final2018.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\obj\Debug\Final2018.dll
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\obj\Debug\Final2018.xml
+C:\Users\Romina\Documents\ProyectosVisual\Final2018\Final2018\obj\Debug\Final2018.pdb
