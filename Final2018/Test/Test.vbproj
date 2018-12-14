@@ -71,6 +71,7 @@
   <ItemGroup>
     <Compile Include="AutorTest.vb" />
     <Compile Include="BorradorTest.vb" />
+    <Compile Include="EditorialTest.vb" />
     <Compile Include="EditorTest.vb" />
     <Compile Include="LibroTest.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />

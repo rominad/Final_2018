@@ -28,6 +28,7 @@ Public Class Editor
     End Property
     Public Sub AddMaterial(valor As Material)
         If _materiales.Count < 2 Then
+            'Fabio comment: la lista no debe tener un limite definido 
             valor.Editor = Me
             _materiales.Add(valor)
         End If
@@ -43,6 +44,7 @@ Public Class Editor
         Dim total As Decimal
         For Each material In _materiales
             total += material.GananciaPorcentajePorAutor()
+            'Fabio comment: confusion! debe usar el método GananciaEditor
         Next
         Return total
     End Function

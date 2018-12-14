@@ -66,3 +66,4 @@ Public NotInheritable Class Autor
         _materiales = New List(Of Material)
     End Sub
 End Class
+'Fabio comment: Ok

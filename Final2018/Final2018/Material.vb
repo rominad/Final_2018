@@ -66,9 +66,16 @@
 
     Public Function GananciaEditor() As Decimal
         'falta filtrar por tipo de porcentaje XD
-        Return MontoContrato * PorcentajeEditorPorLibro / 100
+        'Return MontoContrato * PorcentajeEditorPorLibro / 100
+        'Fabio comment: se ejecuta segun de quien es el tipo de la instancia los siguiente
+        If TypeOf Me Is Libro Then
+            Return MontoContrato * PorcentajeEditorPorLibro / 100
+        Else
+            Return MontoContrato * PorcentajeEditorPorBorrador / 100
+        End If
     End Function
     Public Overrides Function ToString() As String
+        'Fabio comment: no tiene ninguna referencia ni fue solitado
         Return Titulo
     End Function
     'bidireccional multiple

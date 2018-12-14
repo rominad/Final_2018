@@ -13,3 +13,18 @@ C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.vbproj.C
 C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.exe
 C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.xml
 C:\Users\Romina\Documents\ProyectosVisual\Final2018\Test\obj\Debug\Test.pdb
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\bin\Debug\Test.exe.config
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\bin\Debug\Test.exe
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\bin\Debug\Test.pdb
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\bin\Debug\Test.xml
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\bin\Debug\Final2018.dll
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\bin\Debug\Final2018.pdb
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\bin\Debug\Final2018.xml
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\obj\Debug\Test.Resources.resources
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\obj\Debug\Test.vbproj.CopyComplete
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\obj\Debug\Test.exe
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\obj\Debug\Test.xml
+D:\Development\visual studio 2017\Final_2018rb\Final2018\Test\obj\Debug\Test.pdb
